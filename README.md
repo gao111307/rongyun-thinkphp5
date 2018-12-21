@@ -1,7 +1,7 @@
 # rongyun-thinkphp5
 thinkphp5整合融云SDK
 
-下载融云官方SDK放入extend文件夹下
+下载融云官方SDK放入extend文件夹下,官方地址 https://github.com/rongcloud/server-sdk-php
 
 默认SDK没有命名空间，自己修改并加入命名空间(Rongyun)
 
